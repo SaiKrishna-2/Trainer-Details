@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="display.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+
+<script href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css"></script>
+<link rel="stylesheet" href="signUpStyle.css"> 
+    <title>Display</title>
+    <style>
+      #dis{
+            width: 94%;
+            margin:2% 2%;
+             color: black;
+          }
+     #mainCard{
+        width: 60%;
+        margin:2% 15%;
+        background-color: rgba(65, 63, 63, 0.82);
+        
+        color:white;
+        }
+        .card-header{
+        background-color: rgba(47, 45, 45, 0.601);
+        
+        }
+        #mainCard button{
+            float: right;
+        }
+        #mainCard select{
+            margin-left: 38%;
+        }
+        #mainCard input{
+            width: 15%;
+            margin-left:40%;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="images/logo.png" alt="Bootstrap" width="30" height="24">
+            </a>
+            <a class="navbar-brand" href="#">Trainer Finder</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <button class="btn btn-dark " type="submit" onclick="location.href='index.html'">Home</button>
+                    </li>
+                </ul>
+
+                <button class="btn btn-dark " type="submit" onclick="location.href='signUp.html'">Sign Up</button>
+                <button class="btn btn-dark mx-2" type="submit" onclick="location.href='signIn.html'">Sign In</button>
+
+            </div>
+        </div>
+    </nav>
+    
+    <div class="card divp" id="mainCard">
+        <h4 class="card-header" id="formshow">Get All Trainers
+            <button class="btn btn-light "type="submit" onclick="displayAllTrainers()">Search</button></h4>
+      </div> 
+
+
+
+      <div class="card divGender" id="mainCard">
+        <h4 class="card-header" id="formshow">Get All Trainers By Gender:
+        <select name="gender" class="gender">
+            <option selected value="M">Male</option>
+            <option value="F">Female</option>
+          </select>
+          <button class="btn btn-light "type="submit" onclick="displayByGender()">Search</button>
+        </h4>
+      </div> 
+
+      <div class="card divCity" id="mainCard">
+        <h4 class="card-header" id="formshow">Get All Trainers By City:
+            <input type="text" id="inputCity"class="md-2" name="city">
+          <button class="btn btn-light "type="submit" onclick="displayByCity()">Search</button>
+        </h4>
+      </div> 
+
+      <div class="card divPincode" id="mainCard">
+        <h4 class="card-header" id="formshow">Get Trainers By Pincode:
+            <input type="text" id="inputPincode"class="md-2" name="pincode">
+          <button class="btn btn-light "type="submit" onclick="displayByPincode()">Search</button>
+        </h4>
+      </div> 
+
+      <div class="card divSkill" id="mainCard">
+        <h4 class="card-header" id="formshow">Get All Trainers By Skill:
+            <input type="text" id="inputSkill"class="md-2" name="skill">
+          <button class="btn btn-light "type="submit" onclick="displayBySkill()">Search</button>
+        </h4>
+      </div> 
+
+      <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 item text">
+                        <h3>Have a question?</h3>
+                        <ul>
+                            <li><a href="#">support@trainerfinder.com</a></li>
+                            <li><a href="#">1800-560-120</a></li>
+                            <li><a href="#">#23, 10th Avenue, Siruseri, Chennai-603103</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-5 col-md-2 item">
+                        <ul>
+                            <li><a href="#">Terms</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Cookie Settings</a></li>
+                            <li><a href="#">Prefrences</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-5 col-md-3 item">
+                        <ul>
+                            <li><a href="#">Company</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Careers</a></li>
+                            <li><a href="#">Subscribe to our Newsletter</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i
+                                class="icon ion-social-twitter"></i></a>
+                                <a href="#"><i class="icon ion-social-instagram"></i></a></div>
+                </div>
+                <p class="copyright">Trainer Finder.Pvt.Ltd CopyRight 2023 © By Sai Krishna</p>
+            </div>
+        </footer>
+    </div>
+    
+</body>
+</html>

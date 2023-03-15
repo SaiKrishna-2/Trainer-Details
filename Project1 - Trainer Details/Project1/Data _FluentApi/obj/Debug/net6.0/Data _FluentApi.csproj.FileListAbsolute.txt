@@ -1,0 +1,28 @@
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.deps.json
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.runtimeconfig.json
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.dll
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.pdb
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.csproj.AssemblyReference.cache
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.AssemblyInfoInputs.cache
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.AssemblyInfo.cs
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.csproj.CoreCompileInputs.cache
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.dll
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\refint\Data _FluentApi.dll
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.pdb
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.genruntimeconfig.cache
+C:\Users\Sai Krishna\Desktop\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\ref\Data _FluentApi.dll
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.deps.json
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.runtimeconfig.json
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.dll
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _FluentApi.pdb
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.csproj.AssemblyReference.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.AssemblyInfoInputs.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.AssemblyInfo.cs
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.csproj.CoreCompileInputs.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.dll
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\refint\Data _FluentApi.dll
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.pdb
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _FluentApi.genruntimeconfig.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\ref\Data _FluentApi.dll

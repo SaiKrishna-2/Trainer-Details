@@ -1,0 +1,14 @@
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _EntityFramework.deps.json
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _EntityFramework.runtimeconfig.json
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _EntityFramework.dll
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\bin\Debug\net6.0\Data _EntityFramework.pdb
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.csproj.AssemblyReference.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.AssemblyInfoInputs.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.AssemblyInfo.cs
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.csproj.CoreCompileInputs.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.dll
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\refint\Data _EntityFramework.dll
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.pdb
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\Data _EntityFramework.genruntimeconfig.cache
+C:\Activities\p1-sai-krishna\Project1 - Trainer Details\Project1\Data _FluentApi\obj\Debug\net6.0\ref\Data _EntityFramework.dll

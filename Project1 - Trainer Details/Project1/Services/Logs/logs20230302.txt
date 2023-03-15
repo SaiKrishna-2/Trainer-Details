@@ -1,0 +1,20 @@
+2023-03-02 00:00:03.004 +05:30 [INF] Fetching all trainers
+2023-03-02 00:00:51.112 +05:30 [INF] Account Deleted
+2023-03-02 00:00:53.638 +05:30 [INF] Fetching all trainers
+2023-03-02 00:01:13.200 +05:30 [INF] Fetching all trainers
+2023-03-02 00:11:33.718 +05:30 [INF] Fetching all trainers
+2023-03-02 00:11:49.963 +05:30 [INF] Fetching all trainers
+2023-03-02 00:19:22.214 +05:30 [INF] Fetching all trainers
+2023-03-02 00:19:26.411 +05:30 [INF] Fetching all trainers
+2023-03-02 00:19:30.296 +05:30 [INF] Fetching all trainers
+2023-03-02 00:19:30.611 +05:30 [INF] Fetching all trainers
+2023-03-02 00:19:39.963 +05:30 [INF] Fetching all trainers
+2023-03-02 00:19:47.397 +05:30 [INF] Account Deleted
+2023-03-02 00:19:50.325 +05:30 [INF] Fetching all trainers
+2023-03-02 00:20:43.519 +05:30 [INF]  New trainer Sign up
+2023-03-02 00:20:51.801 +05:30 [INF]  New trainer Sign up
+2023-03-02 00:20:52.307 +05:30 [INF] Fetching all trainers
+2023-03-02 00:21:00.164 +05:30 [INF] Account Deleted
+2023-03-02 00:21:03.823 +05:30 [INF] Fetching all trainers
+2023-03-02 00:21:47.671 +05:30 [INF] Fetching all trainers
+2023-03-02 00:21:47.978 +05:30 [INF] Fetching all trainers
